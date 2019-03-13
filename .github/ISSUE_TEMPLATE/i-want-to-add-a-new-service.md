@@ -12,6 +12,8 @@ assignees: DevinClark
 ## Table of Contents
 - [Purpose](#purpose)
 - [Severity](#severity)
+- [Suggested provider](#suggested-provider)
+- [Cost](#estimated-cost-to-run)
 - [Confidentiality](#confidentiality)
 - [Design](#design)
 - [External Dependencies](#external-dependencies)
@@ -21,8 +23,8 @@ assignees: DevinClark
 
 ## Purpose
 
-_What does this service do?
-Why do we need this?_
+_What does this service do?_
+_Why do we need this?_
 _Link to the code for the service_
 
 ## Suggested provider
