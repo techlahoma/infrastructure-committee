@@ -23,6 +23,7 @@ assignees: DevinClark
 
 _What does this service do?
 Why do we need this?_
+_Link to the code for the service_
 
 ## Suggested provider
 
@@ -45,6 +46,8 @@ How does the thing work?
 ## External Dependencies
 
 _Services this service depends on._
+_API keys this service will need access to_
+_Environment variable names for the API keys would be good to include too_
 
 ## Failure Modes
 
