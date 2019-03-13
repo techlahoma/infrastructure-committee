@@ -9,7 +9,7 @@ assignees: DevinClark
 
 # {Service Name}
 
-## Contents
+## Table of Contents
 - [Purpose](#purpose)
 - [Severity](#severity)
 - [Confidentiality](#confidentiality)
@@ -21,22 +21,22 @@ assignees: DevinClark
 
 ## Purpose
 
-What does this service do?
-Why do we need this?
+_What does this service do?
+Why do we need this?_
 
 ## Suggested provider
 
-This will probably be heroku unless a strong case is made otherwise.
+_This will probably be heroku unless a strong case is made otherwise._
 
 ## Estimated cost to run
 
 ## Severity of outage
 
-Is it customer facing? internal facing? etc  what is impact of outage.
+_Is it customer facing? internal facing? etc  what is impact of outage._
 
 ## Confidentiality
 
-How bad is a data leak?
+_How bad is a data leak?_
 
 ## Design
 
@@ -44,17 +44,17 @@ How does the thing work?
 
 ## External Dependencies
 
-Services this service depends on.
+_Services this service depends on._
 
 ## Failure Modes
 
-what will likely break it?
+_what will likely break it?_
 
 ## Technical
 
-How is this service built and deployed?
+_How is this service built and deployed?_
 
 
 ## Production Acceptance Criteria
 
-At some point, past PoC, figure out what is needed to get this to production in a healthy way. Metrics for us to monitor on to know the service is healthy.
+_At some point, past PoC, figure out what is needed to get this to production in a healthy way. Metrics for us to monitor on to know the service is healthy._
